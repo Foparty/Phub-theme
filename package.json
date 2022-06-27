@@ -1,8 +1,18 @@
 {
-    "name": "darkfo-theme",
-    "displayName": "fo theme dark",
-    "description": "dark fo theme!",
+    "name": "pornhub-dark-theme",
+    "displayName": "Pornhub Dark Theme",
+    "description": "Inspired PornHub theme",
     "version": "0.0.1",
+    "publisher": "AlfonsoMartin",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Foparty/Phub-theme.git"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "pornhub dark theme"
+    ],
     "engines": {
         "vscode": "^1.68.0"
     },
