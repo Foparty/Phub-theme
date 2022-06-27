@@ -1566,6 +1566,13 @@
       }
     },
     {
+      "name": "js func parameter",
+      "scope": ["source.json string"],
+      "settings": {
+        "foreground": "#8CC570"
+      }
+    },
+    {
       "name": "js template literals begin",
       "scope": ["keyword.other.template.begin"],
       "settings": {
