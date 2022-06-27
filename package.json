@@ -1,8 +1,8 @@
 {
-    "name": "pornhub-dark-theme",
-    "displayName": "Pornhub Dark Theme",
-    "description": "Inspired PornHub theme",
-    "version": "0.1.0",
+    "name": "improved-dark-theme",
+    "displayName": "improved dark theme",
+    "description": "improved dark theme",
+    "version": "0.2.0",
     "publisher": "AlfonsoMartin",
     "repository": {
         "type": "git",
@@ -11,7 +11,7 @@
     "keywords": [
         "theme",
         "dark theme",
-        "pornhub dark theme"
+        "best dark theme"
     ],
     "engines": {
         "vscode": "^1.68.0"
