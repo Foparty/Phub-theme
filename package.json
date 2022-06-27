@@ -1,0 +1,21 @@
+{
+    "name": "darkfo-theme",
+    "displayName": "fo theme dark",
+    "description": "dark fo theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Fo Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Fo Theme-color-theme.json"
+            }
+        ]
+    }
+}
